@@ -1,3 +1,4 @@
+// i followed this tutorial on github - https://github.com/quii/learn-go-with-tests/blob/main/iteration.md
 package main
 
 func Repeat(x string) string {
